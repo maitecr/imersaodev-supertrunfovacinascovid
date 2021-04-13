@@ -2,3 +2,5 @@
 
 Projeto realizado durando as duas semanas da Imersão Dev da Alura. 
 O objetivo do projeto era a criação de um jogo Super Trunfo, onde desenvolvemos as funcionalidades: function, for e arrays, e o manuseio de HTML e CSS. 
+
+https://maitecr.github.io/supertrunfovacinascovid/
